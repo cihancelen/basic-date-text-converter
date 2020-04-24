@@ -54,5 +54,3 @@ function ConvertTimeString(minutes) {
 
     return text;
 }
-
-console.log(ConvertTimeString('365'))
